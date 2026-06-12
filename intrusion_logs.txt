@@ -1,0 +1,400 @@
+
+[+] NIDS Started Monitoring...
+
+[19:36:27] Packet from 192.168.1.1
+[19:36:27] Packet from 192.168.1.2
+[19:36:28] Packet from 192.168.1.10
+[19:36:29] Packet from 192.168.1.10
+[19:36:29] Packet from 192.168.1.10
+[19:36:29] Packet from 192.168.1.10
+[19:36:29] Packet from 192.168.1.10
+[19:36:29] Packet from 192.168.1.10
+[19:36:29] Packet from 20.184.175.5
+[19:36:30] Packet from 192.168.1.10
+[19:36:30] Packet from 20.184.175.5
+[19:36:30] Packet from 192.168.1.10
+[19:36:32] Packet from 192.168.1.10
+[19:36:32] Packet from 192.168.1.10
+[19:36:32] Packet from 192.168.1.10
+
+[+] NIDS Started Monitoring...
+
+[19:36:49] Packet from 192.168.1.10
+[19:36:49] Packet from 192.168.1.10
+[19:36:49] Packet from 192.168.1.10
+[19:36:49] Packet from 192.168.1.10
+[19:36:49] Packet from 192.168.1.10
+[19:36:49] Packet from 20.184.175.5
+[19:36:50] Packet from 20.184.175.5
+[19:36:50] Packet from 20.184.175.5
+[19:36:50] Packet from 20.184.175.5
+[19:36:50] Packet from 20.184.175.5
+[19:36:50] Packet from 192.168.1.10
+[19:36:50] Packet from 192.168.1.10
+[19:36:50] Packet from 20.184.175.5
+[19:36:54] Packet from 192.168.1.10
+[19:36:54] Packet from 192.168.1.10
+[19:36:54] Packet from 192.168.1.10
+[19:36:54] Packet from 20.184.175.5
+[19:36:54] Packet from 20.184.175.5
+[19:36:54] Packet from 192.168.1.10
+
+[+] NIDS Started Monitoring...
+
+[19:36:58] Packet from 20.184.175.5
+[19:36:59] Packet from 192.168.1.10
+[19:37:00] Packet from 192.168.1.2
+[19:37:00] Packet from 192.168.1.10
+[19:37:00] Packet from 192.168.1.10
+[19:37:00] Packet from 192.168.1.10
+[19:37:00] Packet from 192.168.1.10
+[19:37:00] Packet from 192.168.1.10
+[19:37:01] Packet from 20.184.175.5
+[19:37:01] Packet from 20.184.175.5
+[19:37:01] Packet from 192.168.1.10
+[19:37:05] Packet from 192.168.1.10
+[19:37:05] Packet from 192.168.1.10
+[19:37:05] Packet from 148.113.20.2
+[19:37:12] Packet from 192.168.1.1
+[19:37:13] Packet from 192.168.1.2
+[19:37:13] Packet from 192.168.1.10
+[19:37:13] Packet from 192.168.1.10
+
+=====================================
+NETWORK INTRUSION DETECTION SYSTEM
+=====================================
+[INFO] Monitoring Started...
+
+[18:01:31] [INFO] Packet from 192.168.1.10
+[18:01:31] [INFO] Packet from 192.168.1.1
+[18:01:31] [INFO] Packet from 192.168.1.2
+[18:01:32] [INFO] Packet from 192.168.1.10
+[18:01:32] [INFO] Packet from 192.168.1.1
+[18:01:33] [INFO] Packet from 192.168.1.10
+[18:01:33] [INFO] Packet from 148.113.20.2
+[18:01:34] [INFO] Packet from 192.168.1.10
+[18:01:34] [INFO] Packet from 192.168.1.1
+
+=====================================
+NETWORK INTRUSION DETECTION SYSTEM
+=====================================
+[INFO] Monitoring Started...
+
+[18:03:13] [INFO] Packet from 192.168.1.2
+[18:03:14] [INFO] Packet from 192.168.1.10
+[18:03:14] [INFO] Packet from 148.113.20.2
+[18:03:17] [INFO] Packet from 192.168.1.2
+[18:03:19] [INFO] Packet from 192.168.1.10
+[18:03:19] [INFO] Packet from 192.168.1.1
+[18:03:19] [INFO] Packet from 204.79.197.222
+[18:03:19] [INFO] Packet from 192.168.1.10
+[18:03:19] [INFO] Packet from 192.168.1.1
+[18:03:20] [INFO] Packet from 192.168.1.10
+[18:03:38] [INFO] Packet from 192.168.1.10
+[18:03:38] [INFO] Packet from 192.168.1.1
+[18:03:38] [INFO] Packet from 192.168.1.10
+[18:03:38] [INFO] Packet from 23.108.55.80
+[18:03:38] [INFO] Packet from 23.108.55.80
+[18:03:38] [INFO] Packet from 192.168.1.10
+[18:03:38] [INFO] Packet from 192.168.1.10
+[18:03:38] [INFO] Packet from 148.113.20.2
+[18:03:38] [INFO] Packet from 192.168.1.10
+[18:03:38] [INFO] Packet from 148.113.20.2
+[18:03:38] [INFO] Packet from 192.168.1.10
+[18:03:38] [INFO] Packet from 192.168.1.10
+[18:03:38] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 52.168.117.170
+[18:03:39] [INFO] Packet from 52.168.117.170
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.2
+[18:03:39] [INFO] Packet from 192.168.1.2
+[18:03:39] [INFO] Packet from 192.168.1.2
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.2
+[18:03:39] [INFO] Packet from 192.168.1.2
+[18:03:39] [INFO] Packet from 192.168.1.2
+[18:03:39] [INFO] Packet from 192.168.1.2
+[18:03:39] [INFO] Packet from 192.168.1.1
+[18:03:39] [INFO] Packet from 192.168.1.2
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.1
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.1
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.1
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 148.113.20.2
+[18:03:39] [INFO] Packet from 192.168.1.2
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.2
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.2
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.2
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [ALERT] Suspicious activity detected from 135.234.160.245
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [ALERT] Suspicious activity detected from 135.234.160.245
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [ALERT] Suspicious activity detected from 135.234.160.245
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [ALERT] Suspicious activity detected from 135.234.160.245
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [ALERT] Suspicious activity detected from 135.234.160.245
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [ALERT] Suspicious activity detected from 135.234.160.245
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [ALERT] Suspicious activity detected from 135.234.160.245
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [ALERT] Suspicious activity detected from 135.234.160.245
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [ALERT] Suspicious activity detected from 135.234.160.245
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [ALERT] Suspicious activity detected from 135.234.160.245
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [ALERT] Suspicious activity detected from 135.234.160.245
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [ALERT] Suspicious activity detected from 135.234.160.245
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [ALERT] Suspicious activity detected from 135.234.160.245
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [ALERT] Suspicious activity detected from 135.234.160.245
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [ALERT] Suspicious activity detected from 135.234.160.245
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [ALERT] Suspicious activity detected from 135.234.160.245
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [ALERT] Suspicious activity detected from 135.234.160.245
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:39] [INFO] Packet from 135.234.160.245
+[18:03:39] [ALERT] Suspicious activity detected from 135.234.160.245
+[18:03:39] [INFO] Packet from 192.168.1.10
+[18:03:39] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:42] [INFO] Packet from 192.168.1.1
+[18:03:43] [INFO] Packet from 192.168.1.10
+[18:03:43] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:44] [INFO] Packet from 192.168.1.10
+[18:03:44] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:44] [INFO] Packet from 148.113.20.2
+[18:03:44] [INFO] Packet from 192.168.1.10
+[18:03:44] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:45] [INFO] Packet from 192.168.1.10
+[18:03:45] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:45] [INFO] Packet from 192.168.1.1
+[18:03:45] [INFO] Packet from 5.79.122.22
+[18:03:45] [INFO] Packet from 192.168.1.10
+[18:03:45] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:45] [INFO] Packet from 192.168.1.10
+[18:03:45] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:46] [INFO] Packet from 192.168.1.2
+[18:03:46] [ALERT] Suspicious activity detected from 192.168.1.2
+[18:03:46] [INFO] Packet from 192.168.1.10
+[18:03:46] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:46] [INFO] Packet from 192.168.1.1
+[18:03:46] [INFO] Packet from 192.168.1.2
+[18:03:46] [ALERT] Suspicious activity detected from 192.168.1.2
+[18:03:48] [INFO] Packet from 192.168.1.10
+[18:03:48] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:48] [INFO] Packet from 192.168.1.1
+[18:03:48] [ALERT] Suspicious activity detected from 192.168.1.1
+[18:03:54] [INFO] Packet from 192.168.1.10
+[18:03:54] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:54] [INFO] Packet from 148.113.20.2
+[18:03:54] [INFO] Packet from 192.168.1.10
+[18:03:54] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:54] [INFO] Packet from 148.113.20.2
+[18:03:54] [INFO] Packet from 192.168.1.10
+[18:03:54] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:54] [INFO] Packet from 192.168.1.10
+[18:03:54] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:54] [INFO] Packet from 192.168.1.10
+[18:03:54] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:54] [INFO] Packet from 192.168.1.10
+[18:03:54] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:55] [INFO] Packet from 5.79.122.22
+[18:03:55] [INFO] Packet from 192.168.1.10
+[18:03:55] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:55] [INFO] Packet from 5.79.122.22
+[18:03:55] [INFO] Packet from 192.168.1.10
+[18:03:55] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:03:55] [INFO] Packet from 23.108.55.80
+[18:03:57] [INFO] Packet from 52.168.117.170
+[18:03:57] [INFO] Packet from 192.168.1.1
+[18:03:57] [ALERT] Suspicious activity detected from 192.168.1.1
+[18:03:58] [INFO] Packet from 192.168.1.10
+[18:03:58] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:04:00] [INFO] Packet from 52.168.117.170
+[18:04:02] [INFO] Packet from 192.168.1.2
+[18:04:02] [ALERT] Suspicious activity detected from 192.168.1.2
+[18:04:02] [INFO] Packet from 192.168.1.10
+[18:04:02] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:04:04] [INFO] Packet from 192.168.1.2
+[18:04:04] [ALERT] Suspicious activity detected from 192.168.1.2
+[18:04:04] [INFO] Packet from 192.168.1.10
+[18:04:04] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:04:04] [INFO] Packet from 148.113.20.2
+[18:04:06] [INFO] Packet from 192.168.1.2
+[18:04:06] [ALERT] Suspicious activity detected from 192.168.1.2
+[18:04:06] [INFO] Packet from 192.168.1.2
+[18:04:06] [ALERT] Suspicious activity detected from 192.168.1.2
+[18:04:06] [INFO] Packet from 192.168.1.2
+[18:04:06] [ALERT] Suspicious activity detected from 192.168.1.2
+[18:04:06] [INFO] Packet from 192.168.1.2
+[18:04:06] [ALERT] Suspicious activity detected from 192.168.1.2
+[18:04:06] [INFO] Packet from 192.168.1.10
+[18:04:06] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:04:06] [INFO] Packet from 192.168.1.10
+[18:04:06] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:04:06] [INFO] Packet from 192.168.1.10
+[18:04:06] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:04:06] [INFO] Packet from 192.168.1.10
+[18:04:06] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:04:06] [INFO] Packet from 192.168.1.10
+[18:04:06] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:04:06] [INFO] Packet from 192.168.1.10
+[18:04:06] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:04:06] [INFO] Packet from 192.168.1.10
+[18:04:06] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:04:06] [INFO] Packet from 192.168.1.10
+[18:04:06] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:04:06] [INFO] Packet from 192.168.1.10
+[18:04:06] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:04:06] [INFO] Packet from 192.168.1.2
+[18:04:06] [ALERT] Suspicious activity detected from 192.168.1.2
+[18:04:06] [INFO] Packet from 192.168.1.10
+[18:04:06] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:04:06] [INFO] Packet from 192.168.1.2
+[18:04:06] [ALERT] Suspicious activity detected from 192.168.1.2
+[18:04:07] [INFO] Packet from 192.168.1.2
+[18:04:07] [ALERT] Suspicious activity detected from 192.168.1.2
+[18:04:07] [INFO] Packet from 192.168.1.2
+[18:04:07] [ALERT] Suspicious activity detected from 192.168.1.2
+[18:04:07] [INFO] Packet from 192.168.1.2
+[18:04:07] [ALERT] Suspicious activity detected from 192.168.1.2
+[18:04:12] [INFO] Packet from 192.168.1.1
+[18:04:12] [ALERT] Suspicious activity detected from 192.168.1.1
+[18:04:13] [INFO] Packet from 192.168.1.10
+[18:04:13] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:04:13] [INFO] Packet from 192.168.1.10
+[18:04:13] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:04:14] [INFO] Packet from 192.168.1.10
+[18:04:14] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:04:14] [INFO] Packet from 148.113.20.2
+[18:04:16] [INFO] Packet from 192.168.1.2
+[18:04:16] [ALERT] Suspicious activity detected from 192.168.1.2
+[18:04:16] [INFO] Packet from 192.168.1.10
+[18:04:16] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:04:24] [INFO] Packet from 192.168.1.10
+[18:04:24] [ALERT] Suspicious activity detected from 192.168.1.10
+[18:04:24] [INFO] Packet from 148.113.20.2
+[18:04:27] [INFO] Packet from 192.168.1.1
+[18:04:27] [ALERT] Suspicious activity detected from 192.168.1.1
+[18:04:28] [INFO] Packet from 40.126.17.133
+[18:04:28] [INFO] Packet from 192.168.1.10
+[18:04:28] [ALERT] Suspicious activity detected from 192.168.1.10
